@@ -15,7 +15,7 @@ import javafx.stage.Stage;
  *
  * @author 1672036 WILLIAM
  */
-public class AplikasiToko extends Application {
+public class UAS extends Application {
     
     @Override
     public void start(Stage stage) throws Exception {
